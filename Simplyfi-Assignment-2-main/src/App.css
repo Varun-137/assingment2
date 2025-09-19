@@ -1,0 +1,16 @@
+.card-img-top {
+  background: #f8f9fa;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+.ant-empty {
+  margin: 48px 0;
+}
+
+.card .anticon {
+  color: #dc3545;
+}
+
+.icon-click {
+  cursor: pointer;
+}
